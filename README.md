@@ -28,6 +28,6 @@ Board File:
 # Fabricated Board
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/68760258/216797744-696944e2-cc38-4426-9f3e-8261d319e5d4.jpg" width="250">
+  <img src="https://user-images.githubusercontent.com/68760258/216797744-696944e2-cc38-4426-9f3e-8261d319e5d4.jpg" width="300">
 </p>
 
