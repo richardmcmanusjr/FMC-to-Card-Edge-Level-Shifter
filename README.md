@@ -23,4 +23,4 @@ Board File:
   - Placed components manually
   - Ran autorouter to route tracers
   - Placed vias to generate ground plane throughout board
-  
+  - Ran Import_bmp.ulp to import graphics
