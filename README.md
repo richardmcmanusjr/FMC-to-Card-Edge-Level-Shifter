@@ -3,6 +3,6 @@
 
 # Images
 
-![alt text](https://github.com/richardmcmanusjr/FMC-to-Card-Edge-Level-Shifter/blob/main/BlockDiagram.png?raw=true)|width=300
+![alt text](https://github.com/richardmcmanusjr/FMC-to-Card-Edge-Level-Shifter/blob/main/BlockDiagram.png?raw=true|width=300)
 
 ![alt text](https://github.com/richardmcmanusjr/FMC-to-Card-Edge-Level-Shifter/blob/main/F2CE_Social_Preview.png?raw=true)
