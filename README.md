@@ -5,7 +5,7 @@ This repository contains an 88 channel conversion board designed to interface an
 # Design
 
 <p align="center">
-  <img src="https://github.com/richardmcmanusjr/FMC-to-Card-Edge-Level-Shifter/blob/main/BlockDiagram.png" width="600">
+  <img src="https://github.com/richardmcmanusjr/FMC-to-Card-Edge-Level-Shifter/blob/main/BlockDiagram.png" width="450">
 </p>
 
 # Finished Layout 
