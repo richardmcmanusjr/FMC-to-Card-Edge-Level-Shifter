@@ -10,5 +10,5 @@
 # Finished Layout 
 
 <p align="center">
-  ![alt text](https://github.com/richardmcmanusjr/FMC-to-Card-Edge-Level-Shifter/blob/main/F2CE_Social_Preview.png?raw=true)
+  <img src=https://github.com/richardmcmanusjr/FMC-to-Card-Edge-Level-Shifter/blob/main/F2CE_Social_Preview.png">
 </p>
