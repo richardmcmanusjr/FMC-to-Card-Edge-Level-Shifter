@@ -13,3 +13,14 @@ This repository contains an 88 channel conversion board designed to interface an
 <p align="center">
   <img src="https://github.com/richardmcmanusjr/FMC-to-Card-Edge-Level-Shifter/blob/main/F2CE_Social_Preview.png">
 </p>
+
+# Organization
+
+Schematic File:
+  - Created "Voltage Divider" Module
+  
+Board File:
+  - Placed components manually
+  - Ran autorouter to route tracers
+  - Placed vias to generate ground plane throughout board
+  
