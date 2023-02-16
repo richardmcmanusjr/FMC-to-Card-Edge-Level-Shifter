@@ -279,15 +279,15 @@ UsedLibrary="/Users/richardmcmanjus/Documents/EAGLE/libraries/LM317AMDT_NOPB.lbr
 UsedLibrary="/Users/richardmcmanjus/Documents/EAGLE/libraries/LM317EMP.lbr"
 UsedLibrary="/Users/richardmcmanjus/Documents/EAGLE/libraries/LM337IMP.lbr"
 UsedLibrary="/Users/richardmcmanjus/Documents/EAGLE/libraries/MK IV Parts.lbr"
-UsedLibrary="/Users/richardmcmanjus/Documents/EAGLE/libraries/SM-3TW102.lbr"
 UsedLibrary="/Users/richardmcmanjus/Documents/EAGLE/libraries/SMDResistor.lbr"
 UsedLibrary="/Users/richardmcmanjus/Documents/EAGLE/libraries/TLV3501.lbr"
 UsedLibrary="/Users/richardmcmanjus/Documents/EAGLE/libraries/hx711.lbr"
+UsedLibrary="/Users/richardmcmanjus/Documents/EAGLE/libraries/ASP-134602-01.lbr"
 
 [Win_1]
 Type="Control Panel"
 Number=0
 
 [Desktop]
-Screen="1440 900"
+Screen="3360 1217"
 Window="Win_1"
