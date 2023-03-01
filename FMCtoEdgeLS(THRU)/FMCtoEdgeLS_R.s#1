@@ -75,51 +75,7 @@
 <libraries>
 <library name="EdgePads">
 <packages>
-<package name="EDGEPADS">
-<smd name="P$2" x="10.16" y="0" dx="5" dy="1.5" layer="1"/>
-<smd name="P$4" x="10.16" y="2.54" dx="5" dy="1.5" layer="1"/>
-<smd name="P$6" x="10.16" y="5.08" dx="5" dy="1.5" layer="1"/>
-<smd name="P$8" x="10.16" y="7.62" dx="5" dy="1.5" layer="1"/>
-<smd name="P$10" x="10.16" y="10.16" dx="5" dy="1.5" layer="1"/>
-<smd name="P$12" x="10.16" y="12.7" dx="5" dy="1.5" layer="1"/>
-<smd name="P$14" x="10.16" y="15.24" dx="5" dy="1.5" layer="1"/>
-<smd name="P$16" x="10.16" y="17.78" dx="5" dy="1.5" layer="1"/>
-<smd name="P$18" x="10.16" y="20.32" dx="5" dy="1.5" layer="1"/>
-<smd name="P$20" x="10.16" y="22.86" dx="5" dy="1.5" layer="1"/>
-<smd name="P$22" x="10.16" y="25.4" dx="5" dy="1.5" layer="1"/>
-<smd name="P$24" x="10.16" y="27.94" dx="5" dy="1.5" layer="1"/>
-<smd name="P$26" x="10.16" y="30.48" dx="5" dy="1.5" layer="1"/>
-<smd name="P$28" x="10.16" y="33.02" dx="5" dy="1.5" layer="1"/>
-<smd name="P$30" x="10.16" y="35.56" dx="5" dy="1.5" layer="1"/>
-<smd name="P$32" x="10.16" y="38.1" dx="5" dy="1.5" layer="1"/>
-<smd name="P$34" x="10.16" y="40.64" dx="5" dy="1.5" layer="1"/>
-<smd name="P$36" x="10.16" y="43.18" dx="5" dy="1.5" layer="1"/>
-<smd name="P$38" x="10.16" y="45.72" dx="5" dy="1.5" layer="1"/>
-<smd name="P$40" x="10.16" y="48.26" dx="5" dy="1.5" layer="1"/>
-<smd name="P$42" x="10.16" y="50.8" dx="5" dy="1.5" layer="1"/>
-<smd name="P$44" x="10.16" y="53.34" dx="5" dy="1.5" layer="1"/>
-<smd name="P$46" x="10.16" y="55.88" dx="5" dy="1.5" layer="1"/>
-<smd name="P$48" x="10.16" y="58.42" dx="5" dy="1.5" layer="1"/>
-<smd name="P$50" x="10.16" y="60.96" dx="5" dy="1.5" layer="1"/>
-<smd name="P$52" x="10.16" y="63.5" dx="5" dy="1.5" layer="1"/>
-<smd name="P$54" x="10.16" y="66.04" dx="5" dy="1.5" layer="1"/>
-<smd name="P$56" x="10.16" y="68.58" dx="5" dy="1.5" layer="1"/>
-<smd name="P$58" x="10.16" y="71.12" dx="5" dy="1.5" layer="1"/>
-<smd name="P$60" x="10.16" y="73.66" dx="5" dy="1.5" layer="1"/>
-<smd name="P$62" x="10.16" y="76.2" dx="5" dy="1.5" layer="1"/>
-<smd name="P$64" x="10.16" y="78.74" dx="5" dy="1.5" layer="1"/>
-<smd name="P$66" x="10.16" y="81.28" dx="5" dy="1.5" layer="1"/>
-<smd name="P$68" x="10.16" y="83.82" dx="5" dy="1.5" layer="1"/>
-<smd name="P$70" x="10.16" y="86.36" dx="5" dy="1.5" layer="1"/>
-<smd name="P$72" x="10.16" y="88.9" dx="5" dy="1.5" layer="1"/>
-<smd name="P$74" x="10.16" y="91.44" dx="5" dy="1.5" layer="1"/>
-<smd name="P$76" x="10.16" y="93.98" dx="5" dy="1.5" layer="1"/>
-<smd name="P$78" x="10.16" y="96.52" dx="5" dy="1.5" layer="1"/>
-<smd name="P$80" x="10.16" y="99.06" dx="5" dy="1.5" layer="1"/>
-<smd name="P$82" x="10.16" y="101.6" dx="5" dy="1.5" layer="1"/>
-<smd name="P$84" x="10.16" y="104.14" dx="5" dy="1.5" layer="1"/>
-<smd name="P$86" x="10.16" y="106.68" dx="5" dy="1.5" layer="1"/>
-<smd name="P$88" x="10.16" y="109.22" dx="5" dy="1.5" layer="1"/>
+<package name="EDGEPADS(THRU)">
 <pad name="P$1" x="3.81" y="0" drill="0.8" diameter="1.6764" shape="long"/>
 <pad name="P$3" x="3.81" y="2.54" drill="0.8" diameter="1.6764" shape="long"/>
 <pad name="P$5" x="3.81" y="5.08" drill="0.8" diameter="1.6764" shape="long"/>
@@ -164,6 +120,50 @@
 <pad name="P$83" x="3.81" y="104.14" drill="0.8" diameter="1.6764" shape="long"/>
 <pad name="P$85" x="3.81" y="106.68" drill="0.8" diameter="1.6764" shape="long"/>
 <pad name="P$87" x="3.81" y="109.22" drill="0.8" diameter="1.6764" shape="long"/>
+<pad name="P$2" x="10.16" y="0" drill="0.8" diameter="1.6764" shape="long"/>
+<pad name="P$4" x="10.16" y="2.54" drill="0.8" diameter="1.6764" shape="long"/>
+<pad name="P$6" x="10.16" y="5.08" drill="0.8" diameter="1.6764" shape="long"/>
+<pad name="P$8" x="10.16" y="7.62" drill="0.8" diameter="1.6764" shape="long"/>
+<pad name="P$10" x="10.16" y="10.16" drill="0.8" diameter="1.6764" shape="long"/>
+<pad name="P$12" x="10.16" y="12.7" drill="0.8" diameter="1.6764" shape="long"/>
+<pad name="P$14" x="10.16" y="15.24" drill="0.8" diameter="1.6764" shape="long"/>
+<pad name="P$16" x="10.16" y="17.78" drill="0.8" diameter="1.6764" shape="long"/>
+<pad name="P$18" x="10.16" y="20.32" drill="0.8" diameter="1.6764" shape="long"/>
+<pad name="P$20" x="10.16" y="22.86" drill="0.8" diameter="1.6764" shape="long"/>
+<pad name="P$22" x="10.16" y="25.4" drill="0.8" diameter="1.6764" shape="long"/>
+<pad name="P$24" x="10.16" y="27.94" drill="0.8" diameter="1.6764" shape="long"/>
+<pad name="P$26" x="10.16" y="30.48" drill="0.8" diameter="1.6764" shape="long"/>
+<pad name="P$28" x="10.16" y="33.02" drill="0.8" diameter="1.6764" shape="long"/>
+<pad name="P$30" x="10.16" y="35.56" drill="0.8" diameter="1.6764" shape="long"/>
+<pad name="P$32" x="10.16" y="38.1" drill="0.8" diameter="1.6764" shape="long"/>
+<pad name="P$34" x="10.16" y="40.64" drill="0.8" diameter="1.6764" shape="long"/>
+<pad name="P$36" x="10.16" y="43.18" drill="0.8" diameter="1.6764" shape="long"/>
+<pad name="P$38" x="10.16" y="45.72" drill="0.8" diameter="1.6764" shape="long"/>
+<pad name="P$40" x="10.16" y="48.26" drill="0.8" diameter="1.6764" shape="long"/>
+<pad name="P$42" x="10.16" y="50.8" drill="0.8" diameter="1.6764" shape="long"/>
+<pad name="P$44" x="10.16" y="53.34" drill="0.8" diameter="1.6764" shape="long"/>
+<pad name="P$46" x="10.16" y="55.88" drill="0.8" diameter="1.6764" shape="long"/>
+<pad name="P$48" x="10.16" y="58.42" drill="0.8" diameter="1.6764" shape="long"/>
+<pad name="P$50" x="10.16" y="60.96" drill="0.8" diameter="1.6764" shape="long"/>
+<pad name="P$52" x="10.16" y="63.5" drill="0.8" diameter="1.6764" shape="long"/>
+<pad name="P$54" x="10.16" y="66.04" drill="0.8" diameter="1.6764" shape="long"/>
+<pad name="P$56" x="10.16" y="68.58" drill="0.8" diameter="1.6764" shape="long"/>
+<pad name="P$58" x="10.16" y="71.12" drill="0.8" diameter="1.6764" shape="long"/>
+<pad name="P$60" x="10.16" y="73.66" drill="0.8" diameter="1.6764" shape="long"/>
+<pad name="P$62" x="10.16" y="76.2" drill="0.8" diameter="1.6764" shape="long"/>
+<pad name="P$64" x="10.16" y="78.74" drill="0.8" diameter="1.6764" shape="long"/>
+<pad name="P$66" x="10.16" y="81.28" drill="0.8" diameter="1.6764" shape="long"/>
+<pad name="P$68" x="10.16" y="83.82" drill="0.8" diameter="1.6764" shape="long"/>
+<pad name="P$70" x="10.16" y="86.36" drill="0.8" diameter="1.6764" shape="long"/>
+<pad name="P$72" x="10.16" y="88.9" drill="0.8" diameter="1.6764" shape="long"/>
+<pad name="P$74" x="10.16" y="91.44" drill="0.8" diameter="1.6764" shape="long"/>
+<pad name="P$76" x="10.16" y="93.98" drill="0.8" diameter="1.6764" shape="long"/>
+<pad name="P$78" x="10.16" y="96.52" drill="0.8" diameter="1.6764" shape="long"/>
+<pad name="P$80" x="10.16" y="99.06" drill="0.8" diameter="1.6764" shape="long"/>
+<pad name="P$82" x="10.16" y="101.6" drill="0.8" diameter="1.6764" shape="long"/>
+<pad name="P$84" x="10.16" y="104.14" drill="0.8" diameter="1.6764" shape="long"/>
+<pad name="P$86" x="10.16" y="106.68" drill="0.8" diameter="1.6764" shape="long"/>
+<pad name="P$88" x="10.16" y="109.22" drill="0.8" diameter="1.6764" shape="long"/>
 </package>
 </packages>
 <symbols>
@@ -263,12 +263,12 @@
 </symbol>
 </symbols>
 <devicesets>
-<deviceset name="EDGEPADS">
+<deviceset name="EDGEPADS(THRU)">
 <gates>
-<gate name="G$1" symbol="EDGEPADS" x="0" y="0"/>
+<gate name="G$1" symbol="EDGEPADS" x="2.54" y="-17.78"/>
 </gates>
 <devices>
-<device name="" package="EDGEPADS">
+<device name="" package="EDGEPADS(THRU)">
 <connects>
 <connect gate="G$1" pin="P$1" pad="P$1"/>
 <connect gate="G$1" pin="P$10" pad="P$10"/>
@@ -2072,7 +2072,7 @@ Source: &lt;a href="https://componentsearchengine.com/Datasheets/2/ASP-134602-01
 </modules>
 <parts>
 <part name="J1" library="ASP-134602-01" deviceset="ASP-134602-01" device=""/>
-<part name="U$1" library="EdgePads" deviceset="EDGEPADS" device=""/>
+<part name="U$1" library="EdgePads" deviceset="EDGEPADS(THRU)" device=""/>
 <part name="GND" library="con-coax" library_urn="urn:adsk.eagle:library:133" deviceset="LTI-SASF54GT" device="" package3d_urn="urn:adsk.eagle:package:6232/1"/>
 <part name="VDD" library="con-coax" library_urn="urn:adsk.eagle:library:133" deviceset="LTI-SASF54GT" device="" package3d_urn="urn:adsk.eagle:package:6232/1"/>
 </parts>

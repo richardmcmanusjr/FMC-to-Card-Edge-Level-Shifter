@@ -1140,7 +1140,7 @@ Source: Lighthorse Technologies, inc. SASF54GT.pdf</description>
 <smd name="K38" x="-22.225" y="-5.715" dx="0.64" dy="0.64" layer="1" roundness="100"/>
 <smd name="K39" x="-23.495" y="-5.715" dx="0.64" dy="0.64" layer="1" roundness="100"/>
 <smd name="K40" x="-24.765" y="-5.715" dx="0.64" dy="0.64" layer="1" roundness="100"/>
-<hole x="-27.19" y="-3.05" drill="1.27"/>
+<hole x="-27.19" y="3.046" drill="1.27"/>
 <hole x="27.19" y="0" drill="1.27"/>
 <text x="0.277" y="0.38" size="1.27" layer="25" align="center">&gt;NAME</text>
 <text x="0.277" y="0.38" size="1.27" layer="27" align="center">&gt;VALUE</text>
@@ -1156,9 +1156,7 @@ Source: Lighthorse Technologies, inc. SASF54GT.pdf</description>
 <wire x1="29.445" y1="9.1" x2="29.445" y2="-8.34" width="0.1" layer="51"/>
 <wire x1="29.445" y1="-8.34" x2="-28.89" y2="-8.34" width="0.1" layer="51"/>
 <wire x1="-28.89" y1="-8.34" x2="-28.89" y2="9.1" width="0.1" layer="51"/>
-<wire x1="25" y1="8" x2="25" y2="8" width="0.8" layer="21"/>
 <wire x1="25" y1="8" x2="25" y2="8.1" width="0.8" layer="21" curve="180"/>
-<wire x1="25" y1="8.1" x2="25" y2="8.1" width="0.8" layer="21"/>
 <wire x1="25" y1="8.1" x2="25" y2="8" width="0.8" layer="21" curve="180"/>
 <wire x1="28" y1="0.76" x2="28.445" y2="0.76" width="0.2" layer="51"/>
 <wire x1="28.445" y1="0.76" x2="28.445" y2="-0.76" width="0.2" layer="51"/>
