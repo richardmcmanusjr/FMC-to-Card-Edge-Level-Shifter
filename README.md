@@ -1,33 +1,53 @@
 # FMC-to-Card-Edge-Level-Shifter
 
-This repository contains an 88 channel conversion board designed to interface an 88-pin probe card with a Virtex-7 VC707 FPGA via an FMC cable. Additional level shifting was required to lower the FPGAs 1.8V logic to 1.2V for 58 signals. Simple voltage dividers were chosen for this purpose.
+This repository contains an 88 channel conversion board designed to interface an 88-pin probe card with a Virtex-7 VC707 FPGA via an FMC cable. Level shifting was required to lower the FPGA's 1.8V logic to 1.2V. Resistor voltage dividers were chosen for this purpose.
 
-# Details
+# V3.1
 
-Schematic File:
-  - Created "Voltage Divider" Module
-  
-Board File:
-  - Placed components manually
-  - Ran autorouter to route tracers
-  - Placed vias to generate ground plane throughout board
-  - Ran Import_bmp.ulp to import graphics
+- Resistor arrays used for voltage dividers
+- Male header pins oriented at right angle to FMC connector
+- Low quiescent current regulator implemented for 1.2V power supply
+- Jumper for selecting power from FPGA or SMA
+
+## Design
+
+<p align="center">
+  <img src="https://github.com/richardmcmanusjr/FMC-to-Card-Edge-Level-Shifter/blob/main/F2CE_V3.1/F2CE_V3.1_Main.png" height="275">
+  <img src="https://github.com/richardmcmanusjr/FMC-to-Card-Edge-Level-Shifter/blob/main/F2CE_V3.1/F2CE_V3.1_Assembly.png" height="275">
+</p>
+
+## Finished Layout 
+
+<p align="center">
+  <img src="https://github.com/richardmcmanusjr/FMC-to-Card-Edge-Level-Shifter/blob/main/F2CE_V3.1/F2CE_V3_Eagle.png" height="500">
+</p>
+
+<p align="center">
+  <img src="https://github.com/richardmcmanusjr/FMC-to-Card-Edge-Level-Shifter/blob/main/F2CE_V3.1/F2CE_V3_OSHPARK.png" height="500">
+</p>
+
+# V2
+
+- Discrete 0603 resistors used for voltage dividers
+- Card edge connector oriented at right angle to FMC connector
+- Optional SMAs for GND and Power
  
-# Design
+## Design
 
 <p align="center">
   <img src="https://github.com/richardmcmanusjr/FMC-to-Card-Edge-Level-Shifter/blob/main/BlockDiagram.png" width="450">
 </p>
 
-# Finished Layout 
+## Finished Layout 
 
 <p align="center">
-  <img src="https://github.com/richardmcmanusjr/FMC-to-Card-Edge-Level-Shifter/blob/main/F2CE_Social_Preview.png">
+  <img src="https://github.com/richardmcmanusjr/FMC-to-Card-Edge-Level-Shifter/blob/main/F2CE_V2/F2CE_V2_Eagle.png" height="500">
 </p>
-
-# Fabricated Board
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/68760258/216797744-696944e2-cc38-4426-9f3e-8261d319e5d4.jpg" width="300">
+  <img src="https://github.com/richardmcmanusjr/FMC-to-Card-Edge-Level-Shifter/blob/main/F2CE_V2/F2CE_V2_OSHPARK.png" height="500">
 </p>
+
+
+
 
