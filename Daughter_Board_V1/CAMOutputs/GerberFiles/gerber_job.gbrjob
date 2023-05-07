@@ -1,0 +1,24 @@
+{
+    "Header": {
+        "Comment": "All values are metric (mm)",
+        "CreationDate": "2023-04-15T18:38:33Z",
+        "GenerationSoftware": {
+            "Application": "EAGLE",
+            "Vendor": "Autodesk",
+            "Version": "9.6.2"
+        },
+        "Part": "Single"
+    },
+    "Overall": {
+        "BoardThickness": 1.57,
+        "LayerNumber": 2,
+        "Name": {
+            "ProjectId": "Daughter_Board_V1"
+        },
+        "Owner": "Richard McManus <rmcmanu2@nd.edu>",
+        "Size": {
+            "X": 165.1,
+            "Y": 88.9
+        }
+    }
+}
